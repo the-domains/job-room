@@ -1,0 +1,53 @@
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.7176974387839437
+  lightness: 0.29103527031838894
+  saturation: 0.48429406504146755
+  rhythmicContrast: 0.7106310050003231
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: 'JOB ROOM '
+layout_spectrum: 0.2686592552345246
+typography_spectrum: 0.7689210583921522
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53d285c7-eaa4-4c8c-b914-21c4d24c9e29.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/53d285c7-eaa4-4c8c-b914-21c4d24c9e29.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: EVERYTHING
+description: Search jobs and rooms here
+github: true
+author:
+  name: KIRAN MANANDHAR
+  email: manandharkiran90@gmail.com
+  url: 'http://hamro.lol/'
